@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Abdulhamid Ibrahim
 
-### 💻 Junior .NET Developer | Back-End Enthusiast
+### 💻 Junior Software Engineer | .NET Developer | Back-End Enthusiast
 
 I'm a motivated and skilled developer specializing in building high-quality software solutions using **ASP.NET Core** and **RESTful APIs**. My passion lies in optimizing performance, ensuring scalability, and delivering secure and maintainable systems.
 
