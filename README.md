@@ -41,19 +41,10 @@ I'm a motivated and skilled developer specializing in building high-quality soft
 ---
 
 ### 📫 Let's Connect!
-- 
-### Connect with Me :
 
 <a href="https://www.linkedin.com/in/abdulhamidibrahim512" target="_blank"><img src="https://img.shields.io/badge/-Abdulhamid%20Ebrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Abdulhamid_Ibrahim" target="_blank"><img src="https://img.shields.io/badge/-Abdulhamid%20Ibrahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ⚡ *I’m always eager to collaborate and learn. Let's build something great together!*
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
 
